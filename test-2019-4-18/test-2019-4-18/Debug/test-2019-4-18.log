@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (test-2019-4-18.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Cpp_Stream.cpp
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  function.h
+  Introduction_Of_STL.cpp
+  test-2019-4-18.vcxproj -> d:\users\admin\documents\visual studio 2015\Advanced\test-2019-4-18\Debug\STL_Learning_20190420.exe
+  test-2019-4-18.vcxproj -> d:\users\admin\documents\visual studio 2015\Advanced\test-2019-4-18\Debug\STL_Learning_20190420.pdb (Full PDB)
